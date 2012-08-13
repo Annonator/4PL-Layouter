@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rules>
+<ruleset name="adsdas 1.0" english="bllll" order="1">Outer Ruleset 1 asdasdasdasd
+	<english>
+				asd for Rulesssss
+			</english>
+		<rule name="Regel 1.0" english="Rule 1.0" order="1">asdasdasdasdasd
+			<english>
+				asd for Rule
+			</english>
+		</rule>
+		<ruleset name="InnerRuleset 1.0" english="aaaaaa" order="2">Inner asd 1[a href="test.html"]test[/a]
+			<english>
+				asd for Ruleset
+			</english>
+				<rule name=" inner Rule 2.0" order="1">innasdasdasdasdasdasder description 2
+				</rule>
+			
+		</ruleset>
+	
+</ruleset>
+
+<rule name="Outer Rule 2.0" order="2">asd
+</rule>
+</rules>
